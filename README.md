@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Hi, I'm Peter 👨‍💻
 
-<!--
-**Peter621-coder/Peter621-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Beginner Python Developer | Learning Backend Development  
+📍 Passionate about building real-world systems  
+🎯 Goal: Become a professional software developer  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 What I’m Learning
+- Python (Beginner → Advanced)
+- Object-Oriented Programming (OOP)
+- Django & Backend Development
+- Git & GitHub
+
+---
+
+## 🛠️ Skills
+- Python 🐍
+- OOP Concepts
+- CLI Applications
+- Git & GitHub
+- HTML
+- CSS
+- REACT
+- DJANGO
+
+---
+
+## 📂 Projects
+- 🚕 Ride Hailing System (Uber-like backend)
+- 🏢 Mega Management System (Banking, School, Store, Library)
+
+---
+
+## 📫 Connect With Me
+- GitHub: https://github.com/YOUR_USERNAME
+
+⭐ *Learning every day, building real projects*
